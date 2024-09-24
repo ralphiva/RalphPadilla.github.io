@@ -20,4 +20,5 @@ I am excited to connect with fellow communication enthusiasts, industry professi
 * Food: Spaghetti and Pizza
 
 Connect with me on [LinkedIN](https://www.linkedin.com/in/ralph-padilla36/)
+
 Follow me on [Instagram]
