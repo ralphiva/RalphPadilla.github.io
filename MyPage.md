@@ -10,7 +10,4 @@ As a communication enthusiast, I possess a keen understanding of the intricacies
 📧 Let's Connect:
 I am excited to connect with fellow communication enthusiasts, industry professionals, and thought leaders who share a passion for harnessing the power of words to create impactful and lasting connections. Feel free to reach out for engaging conversations, networking opportunities, or collaboration on projects that align with our shared vision.
 
-[(https://www.linkedin.com/in/ralph-padilla36/) | LinkedIN]]
-
-
 Connect with me on [LinkedIN](https://www.linkedin.com/in/ralph-padilla36/).
