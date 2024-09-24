@@ -10,4 +10,14 @@ As a communication enthusiast, I possess a keen understanding of the intricacies
 📧 Let's Connect:
 I am excited to connect with fellow communication enthusiasts, industry professionals, and thought leaders who share a passion for harnessing the power of words to create impactful and lasting connections. Feel free to reach out for engaging conversations, networking opportunities, or collaboration on projects that align with our shared vision.
 
+### Credentials
+* Graduated from BA Speech Communication at the University of the Philippines
+* Studying MA Digital Humanities at the University of Alberta, Canada
+
+### On the Other Side of Things
+* Favorite Colors: Green, Violet, and Orange
+* Hobbies: Videogames, Anime, Trading Cards, Cooking
+* Food: Spaghetti and Pizza
+
 Connect with me on [LinkedIN](https://www.linkedin.com/in/ralph-padilla36/).
+Follow me on [Instagram]
