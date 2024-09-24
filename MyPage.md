@@ -19,5 +19,5 @@ I am excited to connect with fellow communication enthusiasts, industry professi
 * Hobbies: Videogames, Anime, Trading Cards, Cooking
 * Food: Spaghetti and Pizza
 
-Connect with me on [LinkedIN](https://www.linkedin.com/in/ralph-padilla36/).
+Connect with me on [LinkedIN](https://www.linkedin.com/in/ralph-padilla36/)
 Follow me on [Instagram]
