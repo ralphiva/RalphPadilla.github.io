@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>All About Ralph</title>
+</head>
+<body>
+
+<h1 style="background-color:MediumSeaGreen;">My Profile</h1>
+<p style="color:MediumSeaGreen;">Name: Ralph Padilla</p>
+<p style="color:MediumSeaGreen;">Favorite Color: Green and Purple</p>
+<p style="color:MediumSeaGreen;">Education: University of the Philippines</p>
+
+<a href="https://thekraftary.wordpress.com/"> My Business Page</a>
+
+
+<p>
+
+</body>
+</html>
